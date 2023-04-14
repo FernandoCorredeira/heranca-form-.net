@@ -1,0 +1,11 @@
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\bin\Debug\HerancaInterFace.exe.config
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\bin\Debug\HerancaInterFace.exe
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\bin\Debug\HerancaInterFace.pdb
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.csprojAssemblyReference.cache
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.Form1.resources
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.PessoaFisicaForm.resources
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.Properties.Resources.resources
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.csproj.GenerateResource.cache
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.csproj.CoreCompileInputs.cache
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.exe
+C:\Users\ETEC\source\repos\HerancaInterFace\HerancaInterFace\obj\Debug\HerancaInterFace.pdb
